@@ -13,7 +13,6 @@
 
 ![image](https://github.com/TienAnhNguyen4523/E-Commerce/assets/165120023/6e15a282-d8e0-4e9a-9f9a-24736b00ac18)
 
-
 ![image](https://github.com/TienAnhNguyen4523/E-Commerce/assets/165120023/9e5ed93d-17b7-4438-adf7-1b02c1b2e69f)
 
 ![image](https://github.com/TienAnhNguyen4523/E-Commerce/assets/165120023/86c1c48e-6e87-4d06-a641-4567d693d136)
@@ -22,3 +21,6 @@
 - ASP.NET MVC
 - SQLServer
 3. Notes
+- The interface is an existing template, I just edited it to suit the needs
+- Please change your SQL sever in appsetting.json to run the program
+- You need to log in to perform the payment function
